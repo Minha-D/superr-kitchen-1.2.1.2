@@ -1,4 +1,4 @@
-The main Owner of this pice of software is SuperR. This repo is just a stable backup of this software.
+The main Owner of this software is SuperR. This repo is just a stable backup of this software.
 # **SuperR's Kitchen Free**
 ## *by SuperR*
 
